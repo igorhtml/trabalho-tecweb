@@ -1,0 +1,1 @@
+# Nesse tutorial, apenas li sobre flask e fiz parte da instalação, não há código até então.

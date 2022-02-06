@@ -1,0 +1,1 @@
+Não há muito código para testar nesse tutorial, ele explica um pouco sobre as extensões do flask e ensina como instalar uma extensão.

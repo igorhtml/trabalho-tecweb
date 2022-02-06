@@ -1,0 +1,29 @@
+<!-- template para o if statement ------------------------------------------>
+
+<!-- <html>
+    <head>
+        <title>{{ title }}</title>
+    </head>
+    <body>
+        {% if username == 'Rosalia':%}
+        <h1>Hello my love</h1>
+        {% else %}
+        <h1>Hello {{ username }}</h1>
+        {% endif %}
+    </body>
+</html> -->
+
+<!-- template para o loop ------------------------------------------ -->
+
+<html>
+    <head>
+        <title>{{ title }}</title>
+    </head>
+    <body>
+        <ul>
+        {% for member in members: %}
+        <li>{{ member }}</li>
+	{% endfor %}
+	</ul>
+    </body>
+</html>

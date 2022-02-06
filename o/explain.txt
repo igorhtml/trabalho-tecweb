@@ -1,0 +1,1 @@
+nesse passo é necessário colocar o email para que o flask app possa usar esse email para enviar emails para o destinatário. Enfrentei dificuldades pois parece que o gmail n permite que o flask acesse o email
